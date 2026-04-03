@@ -18,3 +18,10 @@ The goal is to classify customer sentiment as Positive, Neutral, or Negative. We
 **RoBERTa Model**: Leveraging the cardiffnlp/twitter-roberta-base-sentiment model from the Hugging Face Hub.
 
 **Comparison**: A side-by-side visualization of how both models perform on the same review samples.
+
+### **Tech Stack**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge)
